@@ -1,10 +1,15 @@
-🌿 GO GREEN — Software Company Website
+## 🌿 GO GREEN — Software Company Website
 📌 Project Description
 
 GO GREEN is a responsive HTML & CSS template designed for software/business companies.
 It includes service sections like Web Development, App Development, Game Development, along with a professional homepage and company details.
 
-🚀 Features
+## 🌐 Live Demo  
+[👉 Click Here to View Live Demo](https://software-company-web.netlify.app/)
+
+---
+
+## 🚀 Features
 
 Built with HTML5 & CSS3
 
@@ -18,7 +23,7 @@ Fully responsive design (Desktop, Tablet, Mobile)
 
 Clean and well-commented code
 
-📂 Folder Structure
+## 📂 Folder Structure
 GO-GREEN/
 │
 ├── index.html
@@ -40,7 +45,7 @@ GO-GREEN/
 │
 └── README.md
 
-⚙️ How to Use
+## ⚙️ How to Use
 
 Download/Clone the repository.
 
@@ -52,7 +57,7 @@ Replace demo images inside img/ with your own logo, portfolio, and banners.
 
 Add interactive features in js/scripts.js if needed.
 
-📦 Dependencies
+## 📦 Dependencies
 
 Bootstrap 4
 
@@ -60,12 +65,12 @@ IonIcons
 
 Google Fonts
 
-📜 License
+## 📜 License
 
 This template is under the MIT License.
 You can use it for personal or commercial projects but please provide credit if possible.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add Blog / FAQ / Testimonials pages
 
@@ -75,7 +80,7 @@ More animations & JavaScript interactivity
 
 Contact form backend integration
 
-👤 Author / Contact
+## 👤 Author / Contact
 
 Name: PRITAM LENDALE 
 

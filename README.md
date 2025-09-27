@@ -65,10 +65,6 @@ IonIcons
 
 Google Fonts
 
-## 📜 License
-
-This template is under the MIT License.
-You can use it for personal or commercial projects but please provide credit if possible.
 
 ## 🔮 Future Improvements
 

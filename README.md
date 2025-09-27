@@ -86,4 +86,4 @@ Name: PRITAM LENDALE
 
 Email: pritamlendale@gmail.com
 
-GitHub/Portfolio: [https://github.com/PL7822]
+GitHub/Portfolio: [PL7822](https://github.com/PL7822)
